@@ -88,6 +88,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+        borderColor: border-(--theme-secondary)
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
