@@ -204,4 +204,8 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
